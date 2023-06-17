@@ -73,3 +73,11 @@ int main() {
 
     return 0;
 }
+/*file txt: Mang txt
+9
+10
+8
+7
+1
+5
+*/
